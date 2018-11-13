@@ -3,3 +3,4 @@ There is also significant radiation.
 Many metals ad semiconductors will work well.
 Something about Mars.
 Materials need to survive large temperature changes.
+I fixed the conflict. wenjuan
